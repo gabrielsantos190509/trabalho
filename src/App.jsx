@@ -64,10 +64,10 @@ function App() {
           <button type='submit' className='submit-btn'>
             Entrar
           </button>
-          
+
           <div className="auth-footer">
             <p>Não tem uma conta?</p>
-            <button className='toggle-btn'>Cadastre-se</button>
+            <button className='toggle-btn'>cadastre-se</button>
           </div>
 
         </div>
